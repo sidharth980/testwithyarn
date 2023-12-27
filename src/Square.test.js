@@ -1,4 +1,4 @@
-import Square from "./Square";
+import Square from "./Square/Square.js";
 import { render } from "@testing-library/react";
 
 describe("Basic rendering of squares",() => {

@@ -1,4 +1,4 @@
-import Board from "./Board";
+import Board from "./Board/Board.js";
 import { render,fireEvent, screen,cleanup} from "@testing-library/react";
 
 describe("Test Winner X",()=>{
